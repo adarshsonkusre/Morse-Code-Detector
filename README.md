@@ -58,12 +58,12 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Screenshots
 
-Output
+**Output**
 
 ![Output](https://github.com/adarshsonkusre/Morse-Code-Detector/assets/115790171/c9537ade-2690-41b8-9a72-b80c5328c32e)
 
 
-Code Screenshots
+**Code Screenshots**
 
 ![image](https://github.com/adarshsonkusre/Morse-Code-Detector/assets/115790171/577cc84f-c84a-4fbf-ae4c-c0a40905334f)
 
