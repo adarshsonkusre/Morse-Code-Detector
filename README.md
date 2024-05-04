@@ -55,9 +55,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Screenshots
 
-
-## Screenshots
-
 **Output**
 
 ![Output](https://github.com/adarshsonkusre/Morse-Code-Detector/assets/115790171/c9537ade-2690-41b8-9a72-b80c5328c32e)
